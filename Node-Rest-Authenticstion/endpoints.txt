@@ -1,0 +1,9 @@
+API Endpoints
+
+Register & Login
+POST        /api/auth/register (Register and get JWT)
+POST        /api/auth/login  (Login and get JWT)
+
+
+
+
